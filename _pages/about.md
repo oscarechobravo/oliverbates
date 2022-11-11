@@ -14,7 +14,7 @@ Research Fellow, Lancaster University – Oliver is a researcher and technology 
 - [Net0Insights](http://wp.lancs.ac.uk/net0i)
 - [Crank and File](https://crankandfile.co.uk/)
 
-# co-owner/worker, fractals co-operative – Oliver is a co-owner/worker at fractals co-operative.s
+# co-owner/worker, fractals co-operative – Oliver is a co-owner/worker at fractals co-operative.
 
 # Partner, Cetis LLP – Oliver is also a Partner of Cetis, a technology cooperative consulting in learning technologies, data analytics and dashboards.
 
