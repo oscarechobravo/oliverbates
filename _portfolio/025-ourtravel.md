@@ -10,7 +10,7 @@ sidebar:
     image_alt: "logo"
     text: "Back-End Developer"
   - title: "Responsibilities"
-    text: "Developing GPS detection module "
+    text: "Developing GPS detection module in C#"
 gallery:
   - url: /assets/images/ourtravel.png
     image_path: assets/images/ourtravel.png

@@ -63,7 +63,9 @@ plugins:
 author:
   name   : "Oliver Bates"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "My awesome biography constrained to a sentence or two goes here."
+  bio    : "I work on shaping responsible and ethical tech services and platforms. 
+  I like to use whatever methods fit the project, from data-driven to speculative design, and all mixtures inbetween.
+  My work is community-led, design justice oriented, and co-operative (think co-design)."
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
