@@ -67,9 +67,12 @@ author:
   I like to use whatever methods fit the project, from data-driven to speculative design, and all mixtures inbetween.
   My work is community-led, design justice oriented, and co-operative (think co-design)."
   links:
-    - label: "Website"
+    - label: "fractals co-op"
       icon: "fas fa-fw fa-link"
-      url: "https://"
+      url: "https://fractals.coop"
+    - label: "Google Scholar"
+      icon: "fas fa-fw fa-link"
+      url: "https://scholar.google.com/citations?user=ZXDbf_EAAAAJ&hl=en"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/bates_oliver"
@@ -82,6 +85,9 @@ author:
 
 footer:
   links:
+    - label: "fractals co-op"
+      icon: "fas fa-fw fa-link"
+      url: "https://fractals.coop"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/bates_oliver"
