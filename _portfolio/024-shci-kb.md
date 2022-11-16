@@ -2,7 +2,7 @@
 title: "Knowledge Base and Voting Plugin for Wordpress "
 excerpt: "UX design for Knowledge Base, development of voting plugin"
 header:
-  image: /assets/images/ushci-kb.png
+  image: /assets/images/shci-kb.png
   teaser: assets/images/shci-kb.png
 sidebar:
   - title: "Role"
@@ -10,9 +10,9 @@ sidebar:
     image_alt: "logo"
     text: "UX/UI Design, Front-End Developer, Database design"
   - title: "Responsibilities"
-    text: "Reuters try PR stupid commenters should isn't a business model"
+    text: "Front-end dev, back-end dev, database design"
 gallery:
-  - url: /assets/images/shci-kb.png
+  - url: /assets/images/shci-kb.png0
     image_path: assets/images/shci-kb.png
     alt: "Wordpress UI showing voting plugin"
 ---
