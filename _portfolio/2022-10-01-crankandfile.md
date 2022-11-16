@@ -19,7 +19,7 @@ gallery:
     text: “Speculative Design, Game Design, Critical Geography, Co-design, Design Fiction” 
 ---   
 
-[Crank and File](https://crankandfile.co.uk) is a collection of research outputs offer worker-centric perspectives on gig economy courier work. The project is co-lead by myself and [Ben Kirman]().
+[Crank and File](https://crankandfile.co.uk) is a collection of research outputs offer worker-centric perspectives on gig economy courier work. The project is co-lead by myself and [Ben Kirman](https://ben.kirman.org/).
 
 Having started development in 2019 with [Switch-Gig](https://switchgig.wordpress.com), this project has continued to develop! 
 
