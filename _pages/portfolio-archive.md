@@ -3,8 +3,8 @@ title: Portfolio
 layout: collection
 permalink: /portfolio/
 collection: portfolio
-sort-by: date
-sort-order: reverse
+sort_by: date
+sort_order: reverse
 entries_layout: grid
 classes: wide
 ---
