@@ -1,5 +1,6 @@
 ---
-title: “Crank and File“
+title: “Switch-Gig“
+date: 2020-01-01
 excerpt: “critical and speculative showcase of user and design research with gig economy couriers”
 header:
   image: /assets/images/crankandfile.png
@@ -10,7 +11,7 @@ sidebar:
     image_alt: “logo”
     text: “Lead Researcher”
   - title: “Responsibilities”
-    text: “Content Design, Web design, ”
+    text: “Project Co-Lead, User Researcher, Design Researcher”
 gallery:
   - url: /assets/images/crankandfile.png
     image_path: assets/images/crankandfile.png
@@ -19,8 +20,5 @@ gallery:
     text: “Speculative Design, Game Design, Critical Geography, Co-design, Design Fiction” 
 ---   
 
-[Crank and File](https://crankandfile.co.uk) is a collection of research outputs offer worker-centric perspectives on gig economy courier work. The project is co-lead by myself and [Ben Kirman](https://ben.kirman.org/).
-
-Having started development in 2019 with [Switch-Gig](https://switchgig.wordpress.com), this project has continued to develop! 
-
+[Switch-Gig](https://switchgig.wordpress.com/) was a project that collaborated with gig-workers to explore and understand their current work experiences, the role of technology in this, as well as how future digital technology can better support the workers themselves.
 

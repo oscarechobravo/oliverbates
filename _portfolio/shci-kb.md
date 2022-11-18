@@ -1,6 +1,7 @@
 ---
 title: "Knowledge Base and Voting Plugin for Wordpress "
 excerpt: "UX design for Knowledge Base, development of voting plugin"
+date: 2015-06-01
 header:
   image: /assets/images/shci-kb.png
   teaser: assets/images/shci-kb.png

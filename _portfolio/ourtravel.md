@@ -1,5 +1,6 @@
 ---
-title: "GPS Geofencing for OurTravel"
+title: "Geofencing Trips (OurTravel)"
+date: 2011-06-01
 excerpt: "Implementing Geofencing algorithm for a community trip sharing application"
 header:
   image: /assets/images/ourtravel.png
