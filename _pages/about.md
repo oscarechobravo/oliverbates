@@ -16,7 +16,7 @@ Oliver is a researcher and technology designer at Lancaster University who deliv
 ### Current research projects:
 
 - [Net0Insights](http://wp.lancs.ac.uk/net0i)
-- [Crank and File]({% site.portfolio.crankandfile.url %})
+- [Crank and File]({{ site.baseurl }}{% link portfolio/crankandfile.md %})
 
 ### Selected previous research projects:
 
