@@ -20,10 +20,15 @@ gallery:
     text: "Speculative Design, Game Design, Critical Geography, Co-design, Design Fiction" 
 ---   
 
-[FlipGig](http://www.flipgig.org/) is a research project that brings together user research, transport research, operation research and HCI to consider how gig economy models in last-mile logistics can be made more fair and sustainable.
+[FlipGig](http://www.flipgig.org/) was a research project that brought together user research, transport research and operational research to consider how gig economy models in last-mile logistics can be made more fair and sustainable. I worked as the __Lead User Researcher__ (Research Co-Investigator)
 
-The project ran for a little over 2 years and focused on two parallel tracks:
-- Working with couriers to understand their lived and working experiences to help inform technology design 
-- Developing optimisations for industry applications of last mile logistics that prioritised fair pay of workers
+The project ran for a little over 2 years. My role focused on:
+- Managing the research design, research ethics, recruitment, communications and user research team
+- Driving worker-led approaches - Co-design of research protocol with workers
+- Working with couriers to understand their lived and working experiences to inform service and platform design 
+- Research delivery: reports, papers, stakeholder presentations
+- Web design for project website
+
+
 
 
