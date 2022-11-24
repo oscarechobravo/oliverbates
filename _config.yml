@@ -26,6 +26,8 @@ github_username: oscarechobravo
 #minimal_mistakes_skin: default
 minimal_mistakes_skin: plum
 search: true
+# used when in subfolder on github pages
+baseurl: "/oliverbates"
 
 # Build settings
 markdown: kramdown
