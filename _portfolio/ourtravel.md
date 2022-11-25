@@ -7,7 +7,7 @@ header:
   teaser: assets/images/ourtravel.png
 sidebar:
   - title: "Role"
-    image: http://placehold.it/350x250
+    image: /assets/images/roles/dev.jpg
     image_alt: "logo"
     text: "Back-End Developer"
   - title: "Responsibilities"
@@ -26,5 +26,5 @@ Using C# I developed a back-end module that took GPS data and routes for route m
 Using: C#, Visual Studio
 
 
-
+_Image by storyset on Freepik_
 

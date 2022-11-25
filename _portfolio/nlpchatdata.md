@@ -7,7 +7,7 @@ header:
   teaser: assets/images/crankandfile.png
 sidebar:
   - title: "Role"
-    image: http://placehold.it/350x250
+    image: /assets/images/roles/dev.jpg
     image_alt: "logo"
     text: "Software Developer"
   - title: "Responsibilities"
@@ -23,4 +23,4 @@ Specific work:
 - Working with NLP chat data to compare chat traces to tune NLP techniques to detect similar language and phrases used by chat users.
 
 
-
+_Image by storyset on Freepik_

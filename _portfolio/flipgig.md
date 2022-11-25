@@ -7,7 +7,7 @@ header:
   teaser: assets/images/flipgig-logo.png
 sidebar:
   - title: "Role"
-    image: /assets/images/userresearch.jpg
+    image: /assets/images/roles/userresearch.jpg
     image_alt: "logo"
     text: "Lead User Researcher"
   - title: "Responsibilities"
@@ -39,4 +39,4 @@ The project ran for a little over 2 years. My role focused on:
 - Co-organisation of [Digital Worker Enquiry](https://digitalworkerinquiry.com/) bringing together researchers, tech and workers.
 
 
-Image by 
+_Image by storyset on Freepik_
