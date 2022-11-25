@@ -7,7 +7,7 @@ header:
   teaser: assets/images/flipgig-logo.png
 sidebar:
   - title: "Role"
-    image: http://placehold.it/350x250
+    image: /assets/images/userresearch.jpg
     image_alt: "logo"
     text: "Lead User Researcher"
   - title: "Responsibilities"
@@ -24,6 +24,7 @@ gallery:
 
 The project ran for a little over 2 years. My role focused on:
 - Managing the research design, research ethics, recruitment, communications and user research team
+- Managing industry partnerships with Hermes (Evri), Transport for London, Miralis Data and Menzies Distribution
 - Driving worker-led approaches - Co-design of research protocol with workers
 - Working with couriers to understand their lived and working experiences to inform service and platform design 
 - Research delivery: reports, papers, stakeholder presentations
@@ -38,3 +39,4 @@ The project ran for a little over 2 years. My role focused on:
 - Co-organisation of [Digital Worker Enquiry](https://digitalworkerinquiry.com/) bringing together researchers, tech and workers.
 
 
+Image by 
