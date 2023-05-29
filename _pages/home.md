@@ -4,7 +4,7 @@ title: "Home"
 layout: splash
 ---
 
-{% include figure image_path="/assets/images/unsplash-image-10.jpg" alt="this is a placeholder image" caption="This is a figure caption." %}
+{% include figure image_path="/assets/images/elodie-oudot-wM1YeVW6hE8-unsplash.jpg alt="this is a placeholder image" caption="This is a figure caption." %}
 
 # Hi! :wave:
 
