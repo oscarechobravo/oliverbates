@@ -13,10 +13,14 @@ I'm currently doing a few things that you might be interested in, blending tech 
 - [partner, Cetis LLP](#partner-cetis-llp)
 
 ## co-director, fractals co-operative 
-I am a co-owner/worker at fractals co-operative. We started fractals to find our own community, and turn our collective energies into helping community organisations work through the pains and stickyness of building and holding space for communities. Find out more [here](https://fractals.coop).
+I am a co-owner/worker at fractals co-operative. We started fractals to find our own community, and turn our collective energies into helping community organisations work through the pains and stickyness of building and holding space for communities. 
+
+[fractals co-op](https://fractals.coop){: .btn .btn--success}
 
 ## Research Fellow, Lancaster University
-Oliver is a researcher and technology designer at Lancaster University who delivers multi-stakeholder projects through mixed-methods approaches. The co-design and development of tech focusing on doing good for people and the environment.
+Oliver is a researcher and technology designer at Lancaster University who delivers multi-stakeholder projects through mixed-methods approaches. The co-design and development of tech focusing on doing good for people and the environment. I'm part of the Socio-digital Sustainability (SDS) Research Group.
+
+[SDS](https://wp.lancs.ac.uk/sds/){: .btn .btn--success}
 
 ### Current research projects:
 
@@ -45,4 +49,4 @@ Co-design, Agile, Design Fiction, Cultural Probes, Design Justice Principles, Se
 Kanban, Jekyll, Java, Python, C# (.NET), MySQL, MongoDB, CKAN, WordPress, github, gitlab, Linux, SVN, LaTeX, Spark, HTML, CSS, Javascript, PHP, Mac OS, VMWare, QGIS, Node.js, Matlab
 
 # Academic Profile: 
-[[Google Scholar]](https://scholar.google.com/citations?user=ZXDbf_EAAAAJ&hl=en) [[Academic Profile]](https://www.lancaster.ac.uk/security-lancaster/about/all-staff/oliver-bates)
+[Google Scholar](https://scholar.google.com/citations?user=ZXDbf_EAAAAJ&hl=en){: .btn .btn--success} [Academic Profile](https://www.lancaster.ac.uk/security-lancaster/about/all-staff/oliver-bates){: .btn .btn--success}
