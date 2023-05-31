@@ -4,7 +4,7 @@ title: "Home"
 layout: splash
 ---
 
-{% include figure image_path="/assets/images/elodie-oudot-unsplash-crop.jpg" alt="this is an image to visually break up the page. It's a sort of fractal image, where blue, purple and pink lines spiral and clash. I love purple." %}
+{% include figure image_path="/assets/images/elodie-oudot-unsplash-crop.jpg" alt="this is an image to visually break up the page. It's a sort of fractal image, where blue, purple and pink lines spiral and clash. I love purple." caption="Image by [Elodie Oudot](https://unsplash.com/@elodieoudot) on [Unsplash](https://unsplash.com/). Slightly cropped by me." %}
 
 # Hi! :wave:
 
