@@ -3,7 +3,8 @@ permalink: /cv/
 title: "CV"
 ---
 
-<embed src="/assets/files/cv_may2023.pdf" width="600" type='application/pdf'/>
+[My CV]({{site.baseurl}}{% link assets/files/cv_may23.pdf %}){: .btn .btn--success}
+
 
 # Main Roles and Responsibilities
 user research, service evaluation, facilitation, co-design, human centred design (HCI), data science pipelines, data visualisation, data and database management.
