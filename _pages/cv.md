@@ -3,7 +3,7 @@ permalink: /cv/
 title: "CV"
 ---
 
-[My CV]({{site.baseurl}}{% link assets/files/cv_may23.pdf %}){: .btn .btn--success}
+[My CV]({{site.baseurl}}{% link assets/files/cv_may2023.pdf %}){: .btn .btn--success}
 
 
 # Main Roles and Responsibilities
