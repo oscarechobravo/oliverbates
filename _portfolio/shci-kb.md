@@ -1,6 +1,6 @@
 ---
-title: "Knowledge Base and Voting Plugin for Wordpress "
-excerpt: "UX design for Knowledge Base, development of voting plugin"
+title: "Developing a Knowledge Base and Voting Plugin for Sustainability Researchers "
+excerpt: "UX design for Knowledge Base, development of voting plugin in WordPress"
 date: 2015-06-01
 header:
   image: /assets/images/shci-kb.png
@@ -18,11 +18,16 @@ gallery:
     alt: "Wordpress UI showing voting plugin"
 ---
 
-- Designing wordpress site
-- Database design for storing historical voting data
-- Developing UX/UI for plugin
+- Designing WordPress sitemap, content and visual design
+- Designing and developing UX/UI for voting functionality
+- Database design to capture voting history for analytics
 
 Using: PHP, HTML, JavaScript, MYSQL
+
+## Outcomes
+- WordPress Knowledge base for the Sustainable HCI community
+- New bespoke voting plugin built in PHP/js
+- Voting database that stored historical votes and content
 
 
 {% include gallery caption="This is a sample gallery to go along with this case study." %}

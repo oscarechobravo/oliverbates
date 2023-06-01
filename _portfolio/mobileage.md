@@ -1,5 +1,5 @@
 ---
-title: "Co-creating independent living with older adults"
+title: "Capturing experiences of services and technology with older adults"
 date: 2016-10-01
 excerpt: "critical and speculative showcase of user and design research with gig economy couriers"
 header:
@@ -9,9 +9,9 @@ sidebar:
   - title: "Role"
     image: http://placehold.it/350x250
     image_alt: "logo"
-    text: "Lead Researcher"
+    text: "Facilitator/Researcher"
   - title: "Responsibilities"
-    text: "Project Lead, Web design"
+    text: "Workshop Facilitator, User Research"
 gallery:
   - url: /assets/images/crankandfile.png
     image_path: assets/images/crankandfile.png
@@ -20,13 +20,22 @@ gallery:
     text: "Speculative Design, Game Design, Critical Geography, Co-design, Design Fiction" 
 ---   
 
-[Crank and File](https://crankandfile.co.uk) is a collection of research outputs offer worker-centric perspectives on gig economy courier work. The project is co-lead by myself and [Ben Kirman](https://ben.kirman.org/).
+We ran a series of workshops and user engagement activities in Kendal, UK to understand older adults relationships with technology and begin a blended co-creation and action-research project.
 
-Having started development in 2019 with [Switch-Gig](https://switchgig.wordpress.com), this project has prioritised worker-led methods, producing a range of outputs that put forward the perspectives and experiences of gig economy couriers working in UK cities.
+I was co-facilitating with colleagues from Lancaster University. The activities included:
+- *a show and tell session* from colleagues who had previously ran action-research design sprints
+- *an open space* held for the community to share their experiences around digital technology and their needs for independent living. 
 
-This project brings together outputs from:
-- Switch-Gig
-- FlipGig
-- Meal Deal
+The workshop organically shifted into a technology help session with attendees asking questions about their smartphones, banking apps and tablets.
+
+This formed part of the discovery phase of the EU funded [MobileAge](https://mobile-age.eu/) project, looking to co-create digital platforms and policy to support independent living with older adults.
+
+## Outcomes:
+- Participant recruitment for action-research and co-creation
+- Initial case studies of digital technology use in the context of independent living
+- Examples of where local services and rapidly evolving tech were failing to meet the needs of older adults
+- Reflections on how to recruit and promote for future user research sessions
+
+
 
 
