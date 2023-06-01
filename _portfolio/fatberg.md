@@ -3,8 +3,8 @@ title: "Speculating on gig work futures"
 date: 2019-11-01
 excerpt: "critical and speculative showcase of research communicating needs and experiences of gig economy couriers"
 header:
-image: /assets/images/fatberg.png
-teaser: assets/images/fatberg.png
+image: assets/images/fatbergs.png
+teaser: assets/images/fatbergs.png
 sidebar:
 - title: "Role"
   image: http://placehold.it/350x250
@@ -13,8 +13,8 @@ sidebar:
 - title: "Responsibilities"
   text: "Project Lead,  Design Researcher"
   gallery:
-- url: /assets/images/fatberg.png
-  image_path: assets/images/fatberg.png
+- url: /assets/images/fatbergs.png
+  image_path: assets/images/fatbergs.png
   alt: "Showcase of Critical Design with Gig Economy Couriers"
 - title: "Tools and frameworks"
   text: "Speculative Design, Game Design, Critical Geography, Co-design, Design Fiction, Maps"
