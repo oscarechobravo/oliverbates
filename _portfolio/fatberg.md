@@ -1,6 +1,6 @@
 ---
 title: "Speculating on gig work futures"
-date: 2020-01-01
+date: 2019-11-01
 excerpt: "critical and speculative showcase of research communicating needs and experiences of gig economy couriers"
 header:
 image: /assets/images/fatberg.png
