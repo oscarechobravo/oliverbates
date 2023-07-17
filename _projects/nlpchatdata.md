@@ -21,4 +21,4 @@ Specific work:
 - Working with NLP chat data to compare chat traces to tune NLP techniques to detect similar language and phrases used by chat users.
 
 
-_Image by storyset on Freepik_
+

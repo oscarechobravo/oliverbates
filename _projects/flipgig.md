@@ -35,6 +35,3 @@ The project ran for a little over 2 years. My role focused on:
 - Engagement with industry over fair pay and conditions
 - Feature [article in WIRED](https://www.wired.co.uk/article/gig-economy-fix-academics)
 - Co-organisation of [Digital Worker Enquiry](https://digitalworkerinquiry.com/) bringing together researchers, tech and workers.
-
-
-_Image by storyset on Freepik_

@@ -25,5 +25,3 @@ Using C# I developed a back-end module that took GPS data and routes for route m
 Using: C#, Visual Studio
 
 
-_Image by storyset on Freepik_
-

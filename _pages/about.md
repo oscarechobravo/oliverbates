@@ -24,12 +24,12 @@ Oliver is a researcher and technology designer at Lancaster University who deliv
 ### Current research projects:
 
 - [Net0Insights](http://wp.lancs.ac.uk/net0i)
-- [Crank and File]({{site.baseurl}}{% link _portfolio/crankandfile.md %})
+- [Crank and File]({{site.baseurl}}{% link _projects/crankandfile.md %})
 
 ### Selected previous research projects:
 
-- [FlipGig]({{site.baseurl}}{% link _portfolio/flipgig.md %}): Tackling the growing issues of unfair work and sustainability on last-mile deliveries of food and goods. Working with Unions and workers to empower and protect couriers.
-- [Switch-gig]({{site.baseurl}}{% link _portfolio/switchgig.md %}): Exploring digital opportunities to switch the gig-economy to fair and just work. Not Equal funded (EPSRC Network+) research project exploring workers rights of food delivery riders in the platform gig economy. Cultural probes, workshops, and provocative design.
+- [FlipGig]({{site.baseurl}}{% link _projects/flipgig.md %}): Tackling the growing issues of unfair work and sustainability on last-mile deliveries of food and goods. Working with Unions and workers to empower and protect couriers.
+- [Switch-gig]({{site.baseurl}}{% link _projects/switchgig.md %}): Exploring digital opportunities to switch the gig-economy to fair and just work. Not Equal funded (EPSRC Network+) research project exploring workers rights of food delivery riders in the platform gig economy. Cultural probes, workshops, and provocative design.
 - [Freight Traffic Control 2050 (FTC2050)](https://www.ftc2050.com/) Enabling collaborative and sustainable last mile logistics. I led work on the data science pipeline for transport data, and user research with industry and policy stakeholders and to design new collaborative services for last-mile logistics.
 
 [Google Scholar](https://scholar.google.com/citations?user=ZXDbf_EAAAAJ&hl=en){: .btn .btn--success} [Academic Profile](https://www.lancaster.ac.uk/security-lancaster/about/all-staff/oliver-bates){: .btn .btn--success}
