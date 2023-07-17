@@ -1,7 +1,7 @@
 ---
-title: Portfolio
+title: Projects
 layout: collection
-permalink: /portfolio/
+permalink: /projects/
 collection: portfolio
 sort_by: date
 sort_order: reverse
