@@ -7,8 +7,7 @@ header:
   teaser: assets/images/ourtravel.png
 sidebar:
   - title: "Role"
-    image: /assets/images/roles/dev.jpg
-    image_alt: "logo"
+
     text: "Back-End Developer"
   - title: "Responsibilities"
     text: "Developing back-end modules in C#, testing"

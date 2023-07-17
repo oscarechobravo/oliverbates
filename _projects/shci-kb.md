@@ -7,8 +7,6 @@ header:
   teaser: assets/images/shci-kb.png
 sidebar:
   - title: "Role"
-    image: http://placehold.it/350x250
-    image_alt: "logo"
     text: "UX/UI Design, Front-End Developer, Database design"
   - title: "Responsibilities"
     text: "Front-end dev, back-end dev, database design"

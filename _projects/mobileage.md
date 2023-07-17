@@ -7,8 +7,6 @@ header:
   teaser: assets/images/crankandfile.png
 sidebar:
   - title: "Role"
-    image: http://placehold.it/350x250
-    image_alt: "logo"
     text: "Facilitator/Researcher"
   - title: "Responsibilities"
     text: "Workshop Facilitator, User Research"

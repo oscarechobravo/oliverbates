@@ -7,8 +7,6 @@ header:
   teaser: assets/images/crankandfile.png
 sidebar:
   - title: "Role"
-    image: http://placehold.it/350x250
-    image_alt: "logo"
     text: "Lead Researcher"
   - title: "Responsibilities"
     text: "Project Co-Lead, User Researcher, Design Researcher"

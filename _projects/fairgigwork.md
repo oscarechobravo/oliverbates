@@ -7,8 +7,6 @@ header:
   teaser: /assets/images/flipgig-logo.png
 sidebar:
   - title: "Role"
-    image: http://placehold.it/350x250
-    image_alt: "logo"
     text: "Lead Researcher"
   - title: "Responsibilities"
     text: "Project Lead,  User Researcher, Quantitative Data Analysis"

@@ -7,8 +7,6 @@ header:
   teaser: assets/images/flipgig-logo.png
 sidebar:
   - title: "Role"
-    image: /assets/images/roles/userresearch.jpg
-    image_alt: "logo"
     text: "Lead User Researcher"
   - title: "Responsibilities"
     text: Project Management, User Research, Budget Management, Recruitment, Stakeholder Engagement, Web Design"

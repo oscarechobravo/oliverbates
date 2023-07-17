@@ -125,9 +125,9 @@ defaults:
     values:
       layout: single
       author_profile: true
-  # _portfolio
+  # _projects
   - scope:
-      path: "_portfolio"
+      path: "_projects"
       type: portfolio
     values:
       layout: single

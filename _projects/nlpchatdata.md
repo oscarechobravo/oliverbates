@@ -7,8 +7,6 @@ header:
   teaser: assets/images/crankandfile.png
 sidebar:
   - title: "Role"
-    image: /assets/images/roles/dev.jpg
-    image_alt: "logo"
     text: "Software Developer"
   - title: "Responsibilities"
     text: "Software Dev (Java)"
