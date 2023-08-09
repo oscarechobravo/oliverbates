@@ -13,15 +13,14 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Oliver Bates - Facilitating the design of equitable and sustainble futures
+title: Oliver Bates - Research and design for equitable and sustainble futures
 email: o.bates@me.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Hey! I do a mixture of tech, facilitation and research making systems and services more equitable and sustainable. 
+  Hey! I do a mixture of tech, facilitation, design, and research making systems and services more equitable and sustainable. 
   I have a history of working on social and environmental projects, shaping responsible and ethical services and platforms. 
   I like to use whatever methods fit the project, from data-driven to speculative design, and all mixtures inbetween.
   My work is community-led, design justice oriented, and co-operative (think co-design).
   I love working in teams and bringing critical perspectives into the mix.
-twitter_username: bates_oliver
 github_username: oscarechobravo
 #minimal_mistakes_skin: default
 minimal_mistakes_skin: contrast
@@ -38,8 +37,8 @@ paginate: 5 # amount of posts to show
 paginate_path: /page:num/
 timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
-include:
-  - _pages
+# include:
+#   - _pages
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
@@ -66,21 +65,18 @@ author:
   name   : "Oliver Bates"
   avatar : "/assets/images/bio-photo.jpg"
   bio    : "I work on shaping responsible and ethical tech services and platforms. 
-  I like to use whatever methods fit the project, from data-driven to speculative design, and all mixtures inbetween.
+  I like to use whatever methods fit the project, from data-driven analysis to speculative design, and all mixtures inbetween.
   My work is community-led, design justice oriented, and co-operative (think co-design)."
   links:
-    - label: "fractals co-op"
-      icon: "fas fa-fw fa-link"
-      url: "https://fractals.coop"
     - label: "LinkedIn"
       icon: "fas fa-fw fa-link"
       url: "https://www.linkedin.com/in/batesoliver/"
+    - label: "fractals co-op"
+      icon: "fas fa-fw fa-link"
+      url: "https://fractals.coop"
     - label: "Google Scholar"
       icon: "fas fa-fw fa-link"
       url: "https://scholar.google.com/citations?user=ZXDbf_EAAAAJ&hl=en"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/bates_oliver"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/oscarechobravo"
@@ -90,15 +86,12 @@ author:
 
 footer:
   links:
-    - label: "fractals co-op"
-      icon: "fas fa-fw fa-link"
-      url: "https://fractals.coop"
     - label: "LinkedIn"
       icon: "fas fa-fw fa-link"
       url: "https://www.linkedin.com/in/batesoliver/"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/bates_oliver"
+    - label: "fractals co-op"
+      icon: "fas fa-fw fa-link"
+      url: "https://fractals.coop"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/oscarechobravo"
@@ -108,16 +101,16 @@ footer:
 
 defaults:
   # _posts
-  - scope:
-      path: ""
-      type: posts
-    values:
-      layout: single
-      author_profile: true
-      read_time: true
-      comments: true
-      share: true
-      related: true
+  # - scope:
+  #    path: ""
+  #    type: posts
+  #  values:
+  #    layout: single
+  #    author_profile: true
+  #    read_time: true
+  #    comments: true
+  #    share: true
+  #    related: true
   # _pages
   - scope:
       path: "_pages"
@@ -126,20 +119,20 @@ defaults:
       layout: single
       author_profile: true
   # _projects
-  - scope:
-      path: "_projects"
-      type: portfolio
-    values:
-      layout: single
-      author_profile: false
+  # - scope:
+  #    path: "_projects"
+  #    type: portfolio
+  #  values:
+  #    layout: single
+  #    author_profile: false
 
 collections:
-  portfolio:
-    output: true
-    permalink: /:collection/:path
-  projects:
-    output: true
-    permalink: /:collection/:path
+  # portfolio:
+  #  output: true
+  #  permalink: /:collection/:path
+  # projects:
+  #  output: true
+  #  permalink: /:collection/:path
 
 category_archive:
   type: liquid

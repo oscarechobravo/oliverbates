@@ -9,11 +9,9 @@ title: "CV"
 - PhD Human-Computer Interaction (Computer Science), Lancaster University (2015)
 - BSc Computer Science, Lancaster University (2011)
 
-# Qualifications 
-- union training 101
 
-# Employment
-- co-director/worker, fractals co-operative (2022-current)
+# Experience
+- co-owner/worker, fractals co-operative (2022-current)
 - research fellow, Lancaster University (2021-current)
 - partner, Cetis LLP (2020-current)
 - associate, Cetis LLP (2019-2020)
@@ -32,8 +30,11 @@ Multi-disciplinary and multi-stakeholder research, qualitative and quantitative 
 # Toolkits, processes, and approaches I use:
 Co-design, Agile, Design Fiction, Cultural Probes, Design Justice Principles, Service Evaluation, Data Management, Research Ethics, Statistical Reporting, Games Design
 
-# Technologues I use:
-Kanban, Jekyll, Java, Python, C# (.NET), MySQL, MongoDB, CKAN, WordPress, github, gitlab, Linux, SVN, LaTeX, Spark, HTML, CSS, Javascript, PHP, Mac OS, VMWare, QGIS, Node.js, Matlab
+# Project management
+Kanban, Slack, Zoom, Teams
+
+# Technologues I use to support research:
+Python, MySQL, github, LaTeX, HTML, CSS, Javascript, Node.js, Matlab
 
 # Voluntary work
 - Research Staff Representative, School of Computing and Communications, Lancaster University (2017-2023)
